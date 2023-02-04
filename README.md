@@ -1,2 +1,4 @@
-#This is my first example in git
-This is sample repo. hello world!
+#Example Repository
+This is a sample repo. hello world! & Coders!
+
+This my second change 
